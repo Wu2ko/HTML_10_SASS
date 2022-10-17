@@ -1,0 +1,7 @@
+.card {
+  padding: 10px;
+  margin: 25px; }
+  .card-img-top {
+    background-color: #8282df; }
+  .card-title {
+    font-size: larger; }
