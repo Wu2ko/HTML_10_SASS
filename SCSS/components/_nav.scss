@@ -1,0 +1,13 @@
+nav{
+	background-color:#d8efd1;
+	li{
+	display: inline-block;
+	padding: 10px;
+		a{
+			color: $navLink;
+			&:hover{
+			color: $navLinkHover;
+			}	
+		}
+	}
+}
